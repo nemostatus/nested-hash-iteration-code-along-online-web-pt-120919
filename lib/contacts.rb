@@ -13,6 +13,7 @@ require 'pry'
        favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
      }
    }
+ end
   
 def remove_strawberry(contacts)
 contacts.each do |person, contact_details_hash|
